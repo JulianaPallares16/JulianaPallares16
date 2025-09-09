@@ -1,6 +1,6 @@
 # Hola, soy Juliana Pallares 👋
 
-Soy **desarrolladora junior full stack** con interés en construir aplicaciones escalables y bien estructuradas.  
+Soy **desarrolladora junior full stack**, con formación en **Campuslands**, interesada en construir aplicaciones escalables y bien estructuradas.  
 Actualmente estoy aprendiendo y aplicando principios de **arquitectura hexagonal, SOLID y Vertical Slice Architecture** en mis proyectos.  
 
 ---
@@ -23,8 +23,9 @@ Actualmente estoy aprendiendo y aplicando principios de **arquitectura hexagonal
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### Otras herramientas
+### Frameworks y herramientas
 <p align="left">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
@@ -33,13 +34,12 @@ Actualmente estoy aprendiendo y aplicando principios de **arquitectura hexagonal
 
 ## 📌 Actualmente
 
-- Desarrollando un **gestor de campeonatos de fútbol** aplicando buenas prácticas y principios de arquitectura.  
-- Mejorando mis habilidades en **C#** y **JavaScript**.  
-- Profundizando en **consultas SQL avanzadas, procedimientos almacenados y triggers**.  
+- Aprendiendo **.NET** y fortaleciendo mis habilidades en **C#**.  
+- Mejorando mis conocimientos en **arquitectura de software**.  
 
 ---
 
 ## 📫 Contacto  
 
-- [LinkedIn](#)  
-- [Portafolio](#) *(en construcción)*  
+- [LinkedIn](https://www.linkedin.com/in/juliana-pallares-932801379/)  
+- [Portafolio](https://v0-portfolio-creation-virid.vercel.app/)  
